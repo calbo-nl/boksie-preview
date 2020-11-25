@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,iFAAI,CAEZ,AAAA,IAAI,AAAA,CACA,WAAW,CAAC,mBAAmB,CAClC,AAED,AAAA,EAAE,AAAA,CACE,WAAW,CAAE,GAAG,CACnB,AAED,AAAA,IAAI,AAAA,CACA,gBAAgB,CAAE,kBAAkB,CACvC",
+    "sources": [
+        "addons.scss"
+    ],
+    "names": [],
+    "file": "addons.min.css"
+}
